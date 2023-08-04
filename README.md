@@ -2,7 +2,7 @@ Data and tools Used
 --
 **Data**: Electronics store data with 186000+ records.
 
-**Analyis and Visualisation**: Jupyter(Python)
+**Analysis and Visualisation**: Jupyter(Python)
 
 
 Insights Summary
@@ -10,7 +10,7 @@ Insights Summary
 
 * Stores did maximum sales in the month of **December** followed by **October**.
 
-* Maximum orders fetched by stores in **San Francisco**, followed by **Los Angeles**.
+* Maximum orders were fetched by stores in **San Francisco**, followed by **Los Angeles**.
 
 * Stores got maximum traffic between **10am - 2pm** and **6pm - 9pm**.
 
