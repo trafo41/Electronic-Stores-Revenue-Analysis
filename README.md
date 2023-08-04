@@ -1,10 +1,9 @@
-# Electronic-Store-Sales-Analysis
-
-
 Data and tools Used
 --
 **Data**: Electronics store data with 186000+ records.
+
 **Analyis and Visualisation**: Jupyter(Python)
+
 
 Insights Summary
 --
